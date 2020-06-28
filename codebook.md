@@ -1,10 +1,3 @@
----
-title: "CODEBOOK"
-output:
-  md_document:
-    variant: markdown_github
----
-
 # Codebook
 
 ## Data changes
